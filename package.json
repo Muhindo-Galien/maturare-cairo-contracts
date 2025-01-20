@@ -1,0 +1,20 @@
+{
+  "name": "counter-workshop",
+  "private": "true",
+  "scripts": {
+    "deploy-vault": "ts-node scripts/deployVault.ts",
+    "deploy-token": "ts-node scripts/deployToken.ts",
+    "deploy-withdrawl-manager": "ts-node scripts/deployWithdralManager.ts",
+    "deploy-all": "npm run deploy-vault && npm run deploy-token",
+    "deploy-try": "ts-node scripts/deployTry_v0.ts",
+    "upgrade": "ts-node scripts/upgradeContracts.ts"
+  },
+  "dependencies": {
+    "@tsconfig/node21": "21.0.3",
+    "dotenv": "16.4.5",
+    "starknet": "^7.0.0",
+    "ts-node": "10.9.2",
+    "tslib": "^2.7.0",
+    "typescript": "5.5.4"
+  }
+}

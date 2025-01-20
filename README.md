@@ -1,0 +1,23 @@
+# MATURE Smart Contract Interaction Guide
+
+## Overview
+
+Maturare Finance is a liquid staking protocol designed exclusively for Starknet Decentralised Sequencer Pools. Users can stake their STRK token on Maturare Finance and receive the liquid token maSTRK.
+
+## VAULT_WITHDRAWAL_MANAGER_CLASS_HASH
+0x11e69d0dd3d67a2efbc363e0f9b3254e575ae40de0f4973547e8e12e8a1fd52
+
+## VAULT_WITHDRAWAL_MANAGER_ADDRESS
+0x5d02d93e3193cd4358ab0a2bf37ceb627c3f54c525d6ce21e128f90797acbe7
+
+## MATURE_VAULT_CLASS_HASH
+0x671ecc6446fb5773ba916be83d46c1494135510554c75d5a3c4c12fd8baa4e
+
+## MATURE_VAULT_ADDRESS
+0x382fa3be556536f6bd62ef4d9b7d5a123ee2b4908114ccb0e03754ba028f28
+
+## MA_STRK_TOKEN_CLASS_HASH
+0x452d17f664d931a51ed0ff8306e0dd5ab957df6f6ff94555aa936864117b4a9
+
+## MA_STRK_TOKEN_ADDRESS
+0x1182e0e22373ee8ac3235cbd79c65e90f2a06c5a51e3234bf3f0b8aa495ac23
